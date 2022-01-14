@@ -1,0 +1,5 @@
+values = input("Nhập vào các giá trị: ")
+S02 = values.split(",")
+ketqua = tuple(S02)
+print (S02)
+print (ketqua)
